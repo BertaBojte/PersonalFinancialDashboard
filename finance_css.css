@@ -1,0 +1,31 @@
+
+.box{
+border-top:3px solid green;
+}
+
+.box-header .box-title {
+font-family:Arial;
+font-weight:600
+}
+
+
+
+.js-irs-0 .irs-single, .js-irs-0 .irs-bar-edge, .js-irs-0 .irs-bar,.irs-from, .irs-to, .irs-single {
+background: green;
+border-color:green
+}
+
+.js-irs-1 .irs-single, .js-irs-1 .irs-bar-edge, .js-irs-1 .irs-bar,.irs-from, .irs-to, .irs-single {
+background: green;
+border-color:green
+}
+
+.js-irs-2 .irs-single, .js-irs-2 .irs-bar-edge, .js-irs-2 .irs-bar,.irs-from, .irs-to, .irs-single {
+background: green;
+border-color:green
+}
+
+.js-irs-2 .irs-single, .js-irs-2 .irs-bar-edge, .js-irs-2 .irs-bar,.irs-from, .irs-to, .irs-single {
+background: green;
+border-color:green
+}
